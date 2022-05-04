@@ -20,7 +20,8 @@
     <b>OBS*: Será necessário calcular todo o restante da linhha com a formula Valor2Linha = Valor2Linha - m21*Valor1Linha EX: para a22 = 4 - (2/6)*4</b>
 
 
-    [ </br>6 2 1 = 7
+    [ 
+</br>6 2 1 = 7
 </br> 0 4 1 = 7
 </br>3 2 8 = 13
 </br>]
