@@ -11,5 +11,9 @@
 
     O intuíto do método de Gauss é zerar os valores até chegar em uma possível solução para a matriz 
 </br>
-    Como primeiro passo é necessário encontrar o multiplicador de cada linha </br><b>EX: a21/a11 (multiplicador da segunda linha)</b></br>
-    <b>EX: a31/a11 (multiplicador da terceira linha)</b>
+    Como primeiro passo é necessário encontrar o multiplicador de cada linha </br><b>EX: a21/a11 (multiplicador da segunda linha será chamado de m2)</b></br>
+    <b>EX: a31/a11 (multiplicador da terceira linha será m3)</b></br>
+    <b>CASO FOSSE UMA MATRIZ 4x4 EX: a41/a11 (multiplicador da quarta linha será m4)</b>
+    <b>OBS o multiplicador vai prioritariamente o valor da diagonal principal </b></br>
+    
+    Após obter os multiplicadores, é necessário zerar o valor abaixo da diagonal principal
